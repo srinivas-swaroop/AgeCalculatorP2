@@ -49,7 +49,7 @@ submitButton.addEventListener('click', () => {
     dayElement.textContent = ageDays;
 
     // Format the output message with template literals
-    const ageMessage = `Your ${ageYears} years, ${ageMonths} months, and ${ageDays} days old.`;
+    const ageMessage = `Your ${ageYears} years, ${ageMonths} months, and ${ageDays} days old chipi chapa.`;
 
     // Display the age message in the HTML
     const ageDisplay = document.getElementById('ageT');
